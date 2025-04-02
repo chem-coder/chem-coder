@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+✨ [My Creative Manifesto](./MANIFESTO.md) — if you are curious.
+
