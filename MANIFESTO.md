@@ -1,11 +1,12 @@
 # 🎨 My Creative Manifesto
 
-> I finish what I start.
-> I honor the spark by giving it form.
-> I am not here for perfection, but for growth and the fun of solving puzzles.
+> I finish what I start.<br>
+> I honor the spark by giving it form.<br>
 >
-> I make things.
-> They exist.
-> That is enough.
-
+> I am not here for perfection, <br>but for growth <br>and the fun of solving puzzles.<br>
+>
+> I make things.<br>
+> They exist.<br>
+> That is enough.<br>
+>
 ~ lost and found in patterns
